@@ -1,0 +1,86 @@
+*{
+  background-color: black;
+}
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+
+
+nav{
+  color: rgba(255, 255, 255, 0.60);
+  font-family: Manrope;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  }
+
+.linktree:hover{
+  color: rgba(255, 255, 255, 0.90);
+}
+
+.design-portfolio:hover{
+  color: rgba(255, 255, 255, 0.90);
+}  
+
+.linktree{
+  margin-top: 13px;
+  margin-left: 31px;
+}  
+
+.design-portfolio{
+  margin-top: 13px;
+  padding-left: 32px;
+}
+
+nav:hover{
+  color: rgba(255, 255, 255, 0.90);
+}  
+
+  div > .l1{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 280px;
+    margin-left: 479px;
+    margin-bottom: 0px;
+  }
+
+  div > .l2{
+    color: #FFF;
+  font-family: Manrope;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-block: 0px;
+  margin-left: 479px;
+  top: -50px;
+
+  }
+
+  div > h1{
+    font-family: Manrope;
+  font-size: 180px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  background: conic-gradient(from 204deg at 47.1% 30.28%, #FF00E5 30.03277212381363deg, #00E0FF 78.75deg, #0500FF 151.875deg, #05FF00 195.00000715255737deg, #FFF500 238.12499284744263deg, #F90 296.2500071525574deg, #F00 350.5442690849304deg);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+    margin-left: 479px;
+    margin-block: 0px;
+    padding-top: 0px;
+    padding-top: -0px;
+    Width: 482px;
+    Height:246px;
+    Top: 389px;
+    Left:479px;
+    
+  }
+
